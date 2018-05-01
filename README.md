@@ -18,5 +18,6 @@ Above are the primary user stories. I added many other small features. Such as t
 in color when mouse hover.
 100% Responsive. 
 Also, on scroll page, the respective nav link gets active on whichever section you're on.
+
 Several other features are present too.
 Hope, you'll like it. :)
