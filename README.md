@@ -25,4 +25,5 @@ Libraries/Framework:
 Above are the primary user stories. I added many other small features. Such as thumbnail images of the projects get zoomed and turn dark
 in color on mouse hover.
 100% Responsive through Bootstrap framework
+Used jQuery extensively.
 Also, on scroll page, the respective nav link gets active on whichever section you're on.
